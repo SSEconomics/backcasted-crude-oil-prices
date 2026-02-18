@@ -75,12 +75,11 @@ The core file is `MasterFile_CDataM.xlsx`.
 | `RAC` | Nominal Refiner's Acquisition Cost of Crude Oil (Dollars per Barrel). | 1973-01 | EIA Monthly Energy Review (MER). Weighted monthly average. Typical delay is 2 months. 1973 data imputed following Mork (1989). |
 | `CPI` | US Consumer Price Index (Monthly Seasonally Adjusted). | 1973-01 | Philadelphia Fed Real-Time Database (PCPI). Typical delay is 1 month. |
 
-## Quick Start: Code & Examples
+## Quick Start: Code & Examples *(Coming Soon!)*
 
-To ensure this data is as accessible as possible, code is provided in both **R** and **Stata**.
+To ensure this data is as accessible as possible, starter code will be provided in both **R** and **Stata**. These scripts are currently in development and will be uploaded shortly.
 
-The scripts in this repository demonstrate how to:
-
+Once available, the scripts will demonstrate how to:
 1. Directly load `MasterFile_CDataM.xlsx` from this repository.
 2. Graph the historical series.
 3. Construct the end-of-month RAC using the provided backcasted spot prices.
@@ -88,11 +87,11 @@ The scripts in this repository demonstrate how to:
 
 ### [R Users]
 
-See `scripts/analysis_r.R`.
+See `scripts/analysis_r.R` *(Coming Soon)*.
 
 ### [Stata Users]
 
-See `scripts/analysis_stata.do`.
+See `scripts/analysis_stata.do` *(Coming Soon)*.
 
 ## Replication Materials
 
