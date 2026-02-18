@@ -94,3 +94,10 @@ See `scripts/analysis_r.R`.
 
 See `scripts/analysis_stata.do`.
 
+## Replication Materials
+
+This repository is maintained as a living dataset for ongoing research and forecasting. If you are looking to perfectly replicate the results of the original papers, please use the static replication packages available on my [research page](https://stephensnudden.com/research/):
+
+* [Replication Package: Ellwanger & Snudden (2023a) - *Forecasts of the Real Price of Oil Revisited: Do they Beat the Random Walk?*](https://www.dropbox.com/scl/fi/flxmw6a23ft00dk4g6yfi/Forecasts_M_Revisited.zip?rlkey=cebwndtl5kdcjljqdsmqw6tuf&dl=0)
+* [Replication Package: Ellwanger & Snudden (2023b) - *Futures Prices are Useful Predictors of the Spot Price of Crude Oil*](https://www.dropbox.com/scl/fi/q5zfryq4ftamh7n8rwhpf/ReplicationCode.zip?rlkey=ids5orur80dtnfmfwo0orcoc1&dl=0)
+
